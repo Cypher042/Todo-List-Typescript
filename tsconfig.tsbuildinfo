@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/database/database.ts","./src/handler/handler.ts","./src/model/model.ts","./src/routes/routes.ts","./src/swagger/swagger.ts"],"version":"5.9.2"}
