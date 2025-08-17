@@ -1,2 +1,3 @@
 # Typescript-todo-list
-# Todo-List-Typescript
+
+Made this to teach someone typescript the most basic thing I did in a while.
